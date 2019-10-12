@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter_page_indicator/flutter_page_indicator.dart';
-import 'package:flutter_swiper2/flutter_swiper2.dart';
+import 'package:flutter_swiper/flutter_swiper.dart';
 
 /// plugin to display swiper components
 ///
